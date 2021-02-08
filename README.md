@@ -1,2 +1,2 @@
 # node-boilerplate
-apaleo Quickstart TypeScript/Node.js project template
+Quickstart TypeScript/Node.js project template
