@@ -12,6 +12,7 @@ Quickstart TypeScript/Node.js project template with built-in apaleo client.
 
 1. Build docker image `docker build -t app .`
 2. Start docker container `docker run -it -p 3000:3000 app`
+3. Navigate to [http://localhost:3000](http://localhost:3000)
 
 ### How to update apaleo api proxy?
 Grab the latest version of a `swagger.json` for any service that needs to be updated. 
